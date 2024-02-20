@@ -28,7 +28,7 @@ function PopularProductCard({ image, title, size }) {
       <div className=" row-span-3 flex flex-col flex-nowrap justify-center items-start space-y-1">
         <h3 className="text-xs  text-pink-400">{title}</h3>
         <h3 className="text-sm font-semibold ">{title}</h3>
-        <p className="text-sm font-light pr-2 line-clamp-2">
+        <p className="text-sm font-light pr-2 line-clamp-2 text-zinc-700">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
           quaerat ab.
         </p>

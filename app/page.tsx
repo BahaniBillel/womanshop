@@ -6,6 +6,10 @@ import PopularProducts from "@/components/PopularProducts";
 import PopularProductsV2 from "@/components/PopularProductsV2";
 import BackgroundImage from "@/components/BackgroundImage";
 import PopularBrands from "@/components/PopularBrands";
+import IconFeatures from "@/components/IconFeatures";
+import Payment from "@/components/Payment";
+import JoinThePack from "@/components/JoinThePack";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -17,6 +21,10 @@ export default function Home() {
       <BackgroundImage />
       <PopularBrands />
       <PopularProductsV2 />
+      <IconFeatures />
+      <Payment />
+      <JoinThePack />
+      <Footer />
     </main>
   );
 }

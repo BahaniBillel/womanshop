@@ -16,7 +16,7 @@ function BackgroundImage() {
           <h3 className="text-5xl md:text-6xl font-bold text-white">
             People Don&#39;t Listen
           </h3>
-          <p className="text-white">
+          <p className="text-white text-pretty">
             Beats&#39; first on-ear headphones with active noise cancellation.
             The Solo Pros analyze ambient noise with their built-in microphones
             and cancel out the clamor of city streets and the low rumble of a
